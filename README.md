@@ -100,15 +100,6 @@ No installation or additional dependencies are required.
 
 ---
 
-## 👨‍💻 Author
-
-**Surya Pratap**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
 ## ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
